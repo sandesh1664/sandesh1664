@@ -1,21 +1,174 @@
-# 💫 About Me:
-👋 Hi, I'm Sandesh Joshi  <br><br>🎓 Computer Engineering Graduate  <br>💻 Web Developer | Data Science | Machine Learning | AI Enthusiast  <br><br>I’m passionate about building intelligent, data-driven, and scalable applications.  <br>My work spans across web development, machine learning models, and AI-powered systems, with a strong interest in solving real-world problems—especially in healthcare and IoT domains.<br><br>🛠️ Skills & Technologies:<br>- Web Development: HTML, CSS, JavaScript, Django<br>- Data Science: Python, Pandas, NumPy, Data Analysis, Visualization<br>- Machine Learning: Scikit-learn, Model Training & Evaluation<br>- AI: Applied ML, Intelligent Systems<br>- Databases: MySQL<br>- Tools: Git, GitHub, VS Code<br><br>🚀 Areas of Interest:<br>- AI & Machine Learning Applications<br>- Data-Driven Decision Systems<br>- Healthcare & IoT Solutions<br>- Full-Stack Web Development<br><br>📍 Nepal  <br>📫 Open to collaboration, research, and innovative projects.<br>
+# 👋 Hi, I'm Sandesh Joshi
 
+## 🚀 Computer Engineer | AI Engineer | Python Developer | Full Stack Developer
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JRUSREaX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sandesh.joshi.1664) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandesh_joshi12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeshjoshi1664) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThinkSathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeshjoshi2020@gmail.com) 
+🎓 Computer Engineering student at **Pokhara University, Nepal**  
+🤖 Artificial Intelligence & Machine Learning enthusiast  
+💻 Building intelligent software solutions using AI, Web Technologies, and IoT
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandesh1664&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandesh1664&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh1664&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandesh1664&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am passionate about developing scalable applications and solving real-world problems through software engineering, artificial intelligence, and smart technology solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sandesh1664&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **AI, Machine Learning, Web Development, and IoT projects**
+- 🌱 Learning **Cloud Computing, DevOps, Advanced AI Systems, and Software Architecture**
+- 🎓 Completed **AI & Machine Learning Microdegree Program** from AI Community in Nepal (AICN)
+- 🏆 Second Runner-up in Hackathon at Pokhara Engineering College
+- 💡 Interested in AI-powered applications, healthcare technology, IoT, and smart systems
+- 🤝 Open to collaboration on innovative software projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+Python • JavaScript • C • C++ • SQL
+
+### Artificial Intelligence & Data Science
+
+- Machine Learning
+- Data Analysis
+- Model Training & Evaluation
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- Matplotlib
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- Django
+- FastAPI
+
+### Database
+
+- MongoDB
+- MySQL
+- PostgreSQL
+- SQLite
+
+### IoT & Embedded Systems
+
+- ESP8266
+- ESP32
+- Arduino
+- Sensors Integration
+- MQTT
+- Embedded Programming
+
+### Cloud & Tools
+
+- Git & GitHub
+- Docker
+- Microsoft Azure
+- AWS (Learning)
+- VS Code
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Accident Detection & Alert System
+
+Final Year Engineering Project
+
+An IoT-based accident detection system that detects vehicle accidents, tracks real-time location, and provides monitoring support.
+
+**Technologies:**
+ESP8266 • MPU6050 • GPS NEO-6M • Node.js • MongoDB • Leaflet
+
+🔗 Repository:
+https://github.com/sandesh1664/accident-detection-system
+
+
+---
+
+## 🚗 LOC8 - Real-Time Vehicle Tracking System
+
+An IoT-based vehicle tracking and accident alert system using GPS, sensors, and a web monitoring platform.
+
+**Technologies:**
+
+ESP8266 • GPS • MPU6050 • Node.js • MongoDB • Maps API
+
+
+---
+
+## 🩸 BloodLink - Blood Donation Management System
+
+A healthcare platform connecting blood donors and recipients with location-based donor management.
+
+**Technologies:**
+
+Django • Database Management • OpenStreetMap
+
+
+---
+
+## 🤖 AI-Based Phishing URL Detection
+
+Machine learning system designed to identify potentially malicious URLs using data analysis and classification techniques.
+
+**Technologies:**
+
+Python • Machine Learning • Scikit-learn • Data Processing
+
+
+---
+
+# 📊 GitHub Statistics
+
+![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandesh1664&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandesh1664&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh1664&layout=compact&theme=tokyonight)
+
+
+---
+
+# 🏆 Achievements
+
+🏅 AI & Machine Learning Microdegree  
+**AI Community in Nepal (AICN)**
+
+🏆 Hackathon Second Runner-up  
+**Pokhara Engineering College**
+
+📚 International Conference on Emerging Trends in Engineering and Technology
+
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/sandeshjoshi1664/
+
+📧 Email  
+sandeshjoshi2020@gmail.com
+
+🌍 Portfolio  
+Coming Soon 🚀
+
+
+---
+
+## 💡 Quote
+
+> "Building intelligent software and smart technology solutions for real-world impact."
+
+---
+
+⭐ Thanks for visiting my profile!
