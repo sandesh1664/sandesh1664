@@ -23,60 +23,98 @@ I am passionate about developing scalable applications and solving real-world pr
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+<table>
+<tr>
+<td width="50%">
 
-Python • JavaScript • C • C++ • SQL
+### 👨‍💻 Programming Languages
 
-### Artificial Intelligence & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,sql" />
+</p>
 
-- Machine Learning
-- Data Analysis
-- Model Training & Evaluation
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Pandas
-- NumPy
-- Matplotlib
+</td>
 
-### Web Development
+<td width="50%">
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- Django
-- FastAPI
+### 🤖 AI & Machine Learning
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
-- MongoDB
-- MySQL
-- PostgreSQL
-- SQLite
+</td>
+</tr>
 
-### IoT & Embedded Systems
+<tr>
+<td width="50%">
 
-- ESP8266
-- ESP32
-- Arduino
-- Sensors Integration
-- MQTT
-- Embedded Programming
+### 🌐 Web Development
 
-### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-- Git & GitHub
-- Docker
-- Microsoft Azure
-- AWS (Learning)
-- VS Code
-- Postman
+</td>
 
----
+<td width="50%">
 
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github" />
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🔌 IoT & Embedded Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,linux,postman" />
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🎨 Design & Other
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>
+
+</td>
+</tr>
+
+</table>
 # 🚀 Featured Projects
 
 ## 🚗 Accident Detection & Alert System
