@@ -1,0 +1,1 @@
+document.querySelector('#copy-portfolio').addEventListener('click',async()=>{const s=document.querySelector('#copy-status');try{await navigator.clipboard.writeText(location.origin+'/');s.textContent='Link copied.'}catch{s.textContent='Copy the address from your browser.'}});
